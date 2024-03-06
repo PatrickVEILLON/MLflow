@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Mon%20Drive/PROJET_METEO_DEC23_DS/PRODUCTION/Patrick/data_meteo_patrick/mlruns/0/ff02efd432db44e4bc677cf1ea412a4d/artifacts
+end_time: 1709287646186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff02efd432db44e4bc677cf1ea412a4d
+run_name: rnn_xgb2_ameliore
+run_uuid: ff02efd432db44e4bc677cf1ea412a4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709287646141
+status: 3
+tags: []
+user_id: Utilisateur
